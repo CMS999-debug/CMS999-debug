@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saboor 👋
 
-<!--
-**CMS999-debug/CMS999-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year BSc Artificial Intelligence student at Anglia Ruskin University, Cambridge. Straight A's so far in Computer Modelling and Simulation, Machine Learning Fundamentals, Maths for AI and Computer Systems.
 
-Here are some ideas to get you started:
+## What I'm building (November 2026)
+- **Offline Document Assistant**: a local AI assistant that answers questions from your own documents with no internet. Python, FastAPI, tests, Docker. *(in progress)*
+- **Quantum Error Correction Simulator**: simulating a repetition code and measuring how it reduces errors. Python. *(in progress)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+Python · FastAPI · Git · Testing · Docker · CI/CD
+
+## Currently
+Building projects with AI coding tools and learning to understand and test every line they write.
+
+📍 Cambridge, UK
